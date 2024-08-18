@@ -1,3 +1,6 @@
+# Vamos a revisar
+- [Clase 01](#notacion-big-o)
+
 ## Juego de Ahorcado en JAVA
 
 Hicimos un juego de ahorcado en JAVA uno debe ir colocando letra a letra en la consola y tiene cierta cantidad de intentos. si logras ganar tienes un premio.
