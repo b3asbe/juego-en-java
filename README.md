@@ -11,7 +11,7 @@ Hicimos un juego de ahorcado en JAVA uno debe ir colocando letra a letra en la c
  3. Arreglos
  4. Clase string y sus métodos
 
-    ![image](https://github.com/user-attachments/assets/642e5450-ddc0-48f8-9829-cd20b1ef2aa5)
+    ![image]([https://github.com/user-attachments/assets/642e5450-ddc0-48f8-9829-cd20b1ef2aa5](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihk-8Zx2EWyBGumvoH5pKTrGvgcJXkfFaYUb8y4h_AEagWbv1UPWZvnUcZxJWLYQ07fR-CwJtweFqbCj4cQDDJtgzgLwqbREndI76PM4eASD7RVu9T4tVg_fka5zZDgU1StMyPo12tfMUZw4xM5FNP_nb5Jcep9QTtLBO0DNngmZtn2i0FqD7IdMy9LtA/s1600/res.jpg))
 
 Estamos creando las funcionalidades para mejorr el proceso
 Estas son clases pero tambien podemos ver las cuales son
