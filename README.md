@@ -47,7 +47,7 @@ una estructura de datos es :
 ---
 # Semana 02 - Miercoles 13 de enero de 2024
 
-'''
+```csharp
 using System;
 
 class Program
@@ -61,4 +61,4 @@ class Program
         }
     }
 }
-'''
+```
