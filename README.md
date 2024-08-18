@@ -1,5 +1,12 @@
-# Vamos a revisar
-- [Clase 01](#notacion-big-o)
+- [Juego de Ahorcado en JAVA](#juego-de-ahorcado-en-java)
+- [¿Qué herramientas utilizamos?](#qué-herramientas-utilizamos)
+- [Semana 2 Domingo 18 de agosto de 2024](#semana-2-domingo-18-de-agosto-de-2024)
+  - [Notación Big O](#notacion-big-o)
+  - [Crecimiento de funciones y complejidad en tiempo](#crecimiento-de-funciones-y-complejidad-en-tiempo)
+- [Semana 3 Estructura de Datos](#semana-3-estructura-de-datos)
+- [Lista de elementos](#lista-de-elementos)
+- [Semana 02 - Miércoles 13 de enero de 2024](#semana-02---miércoles-13-de-enero-de-2024)
+
 
 ## Juego de Ahorcado en JAVA
 
