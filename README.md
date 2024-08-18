@@ -9,7 +9,7 @@ Hicimos un juego de ahorcado en JAVA uno debe ir colocando letra a letra en la c
  1. Clase Scanner
  2. Declaraciones y asignaciones
  3. Arreglos
- 4. Clase string y sus métodos
+ 4. Clase string y sus métodossssssssss
 
 ![Descripción de la imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihk-8Zx2EWyBGumvoH5pKTrGvgcJXkfFaYUb8y4h_AEagWbv1UPWZvnUcZxJWLYQ07fR-CwJtweFqbCj4cQDDJtgzgLwqbREndI76PM4eASD7RVu9T4tVg_fka5zZDgU1StMyPo12tfMUZw4xM5FNP_nb5Jcep9QTtLBO0DNngmZtn2i0FqD7IdMy9LtA/s1600/res.jpg)
 
@@ -65,3 +65,4 @@ class Program
     }
 }
 ```
+![Descripción de la imagen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihk-8Zx2EWyBGumvoH5pKTrGvgcJXkfFaYUb8y4h_AEagWbv1UPWZvnUcZxJWLYQ07fR-CwJtweFqbCj4cQDDJtgzgLwqbREndI76PM4eASD7RVu9T4tVg_fka5zZDgU1StMyPo12tfMUZw4xM5FNP_nb5Jcep9QTtLBO0DNngmZtn2i0FqD7IdMy9LtA/s1600/res.jpg)
