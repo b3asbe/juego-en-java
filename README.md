@@ -34,4 +34,13 @@ una estructura de datos es :
 2. aPara que los datos formen parte de un procesamiento, se introduce por el tablero o mause gracias a ello comienza a almozar infomración, en la nemoria de datos en la variable y ahi.
 3. tambien hay varios tipos de variables.
 4. tambien recordar las distintas variables
- 
+
+# Lista de elemento
+- casa
+- musica
+- departamento
+
+> las cosas
+> de las cuales vamos a ver mas etiquedas
+> para estar disponible en las funciones de las cuales
+> musica para estudiar
