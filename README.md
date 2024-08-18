@@ -15,7 +15,7 @@ Hicimos un juego de ahorcado en JAVA uno debe ir colocando letra a letra en la c
 
 Estamos creando las funcionalidades para mejorr el proceso
 Estas son clases pero tambien podemos ver las cuales son
-![image](https://github.com/user-attachments/assets/4568ac6a-ffd5-4ce1-af2f-e5472bb80ad1)
+![casa](https://github.com/user-attachments/assets/4568ac6a-ffd5-4ce1-af2f-e5472bb80ad1)
 
 # Semana 2 Domingo 18 de agosto de 2024
 un algoritmo puede ser realizado por dos factores ![image](https://github.com/user-attachments/assets/ed7d92e3-2d0b-4769-96ca-299a77fc5fb2)
