@@ -24,7 +24,14 @@ mide la memoria que se necesita el algoitmo para ejecutar
 -Es una notación matemática muy popular para analiza la complejidad de un algoritmo.
 ![image](https://github.com/user-attachments/assets/0c810fec-df95-4481-a9c0-b3eb65ac7936)
 
-### Crecimiento de funciones y complejidad en tiempo/
+### Crecimiento de funciones y complejidad en tiempo/ 
 #### algoritmo / Código java, para las complejidades.
 ![image](https://github.com/user-attachments/assets/80a7f6a7-8e5f-4ce5-a4c7-0fa3361480ed)
 
+# Semana 3 Estructura de Datos:
+una estructura de datos es :
+1. Selecccionar la estrucutra de datos que cumple mejor los requisitos o requerimientos.
+2. aPara que los datos formen parte de un procesamiento, se introduce por el tablero o mause gracias a ello comienza a almozar infomración, en la nemoria de datos en la variable y ahi.
+3. tambien hay varios tipos de variables.
+4. tambien recordar las distintas variables
+ 
